@@ -80,7 +80,7 @@ public class Q30 {
 	public static void main(String[] args) {
 		
 		Scanner scanner= new Scanner(System.in);
-		Area areaCalculator= new  Area();
+		Area areaCalculator= new Area();{
 		
 		
 		System.out.println("Enter length of rectangle");
@@ -111,4 +111,5 @@ public class Q30 {
 
 	}
 
+}
 }
